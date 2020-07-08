@@ -1,2 +1,3 @@
 this is my first project
 i am practicing here for devops
+added nes line merge conflit
