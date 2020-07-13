@@ -1,4 +1,6 @@
 #ignoring all txt files
 #*.txt
-checkfile1.txt
-checkfile2.txt
+#checkfile1.txt
+#checkfile2.txt
+abc.txt
+cat1.txt
