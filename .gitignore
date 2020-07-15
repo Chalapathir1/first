@@ -2,5 +2,6 @@
 #*.txt
 #checkfile1.txt
 #checkfile2.txt
-abc.txt
-cat1.txt
+#abc.txt
+#cat1.txt
+*.log
