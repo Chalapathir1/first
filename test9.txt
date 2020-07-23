@@ -1,9 +1,12 @@
-<<<<<<< Updated upstream
 this is for test9
-=======
 this is for testa9
 added for git stash
 sdfdsf
 sdfdsf
 sdfds
->>>>>>> Stashed changes
+
+this is for testa9
+added for git stash
+this is for test9
+sdfdsf
+sdfds
