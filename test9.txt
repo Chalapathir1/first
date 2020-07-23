@@ -1,8 +1,6 @@
 
 this is for testa9
 added for git stash
-this is for testa9
-added for git stash
-sdfdsf
+this is for test9
 sdfdsf
 sdfds
