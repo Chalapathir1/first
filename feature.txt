@@ -1,1 +1,2 @@
 this is feature file
+added 2nd file for 2nd commit
