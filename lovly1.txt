@@ -2,3 +2,4 @@ this is lovly file
 this added for practice
 
 addedt line to test git diff-tree command
+enable ssh-keygen
