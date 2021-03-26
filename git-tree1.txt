@@ -1,1 +1,3 @@
 this is vi git-tree1.txt
+
+added line to test merge conflict
